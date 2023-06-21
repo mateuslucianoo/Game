@@ -5,7 +5,7 @@ Este é um projeto simples que implementa um jogo de matemática em Python. O ob
 ## Requisitos
 
 - Python 3.x
-- Módulo `models.calcular`
+- Módulo `game.py`
 
 ## Instalação
 
